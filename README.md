@@ -1,2 +1,2 @@
-# SandwichBarHanamal restaurant Website Full code Free php, html, css, javaScript &MySql PhpMyAdmin.
+# SandwichBarHanamal restaurant Website Full code php, html, css, javaScript &MySql PhpMyAdmin.
 
